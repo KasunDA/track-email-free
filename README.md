@@ -17,5 +17,11 @@ Track email with Gmail and Google Analytics
 
         http://www.google-analytics.com/collect?v=1&tid=__change_this__&cid=CLIENT_ID_NUMBER&t=event&ec=email&ea=open&el=__change_this__&cs=newsletter&cm=email&cn=Campaign_Name
 
+3. Insert image on email.
 
 [More info](http://dyn.com/blog/tracking-email-opens-via-google-analytics/).
+
+
+# Alternative
+
+This process fits for simple email campaigns, since [Mailchimp](http://mailchimp.com/) provides more features.

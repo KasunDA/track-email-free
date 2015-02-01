@@ -24,4 +24,4 @@ Track email with Gmail and Google Analytics
 
 # Alternative
 
-This process fits for simple email campaigns, since [Mailchimp](http://mailchimp.com/) provides more features.
+This process fits for simple email campaigns, since [Mailchimp](http://mailchimp.com/) automatizes a lot of this things.
